@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fluid
+  - Crosshair
+  - ice
+  - firehole
+  - player
+  - gun
+  - followers
+  - fire
+  - HeatSource
+  - oil
+  - MainHeatSource
+  - WaterVapor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fluid
+  - Ice
+  - Crosshair
+  - 
+  - Fire
+  - Heater
+  - 
+  - Vapor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 548327035
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gun
+    uniqueID: 1883586317
+    locked: 0
+  - name: water
+    uniqueID: 293653039
+    locked: 0
+  - name: Foreground
+    uniqueID: 2551676303
+    locked: 0
+  - name: Crosshair
+    uniqueID: 2435990679
+    locked: 0
